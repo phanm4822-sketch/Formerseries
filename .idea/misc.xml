@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="F:\anaconda" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.11.11 (sftp://root@i-1.gpushare.com:42338/usr/local/bin/python3)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="ai_env" project-jdk-type="Python SDK" />
 </project>
